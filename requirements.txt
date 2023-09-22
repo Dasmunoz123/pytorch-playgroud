@@ -1,0 +1,4 @@
+torch==2.0.1
+numpy==1.25.2
+matplotlib
+tk==0.1.0
